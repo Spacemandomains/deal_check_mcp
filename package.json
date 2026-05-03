@@ -1,7 +1,7 @@
 {
   "name": "dealcheck-stripe-mcp",
   "version": "1.0.0",
-  "description": "Production Stripe-powered DealCheck MCP server",
+  "description": "Stripe-powered DealCheck MCP server",
   "type": "module",
   "scripts": {
     "dev": "vercel dev",
@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
-    "typescript": "^5.7.2",
+    "typescript": "^5.7.2"
   },
   "engines": {
     "node": ">=20"
